@@ -1,0 +1,12 @@
+[package]
+name = "weather"
+version = "0.1.0"
+authors = ["chabare <chabare95@gmail.com>"]
+
+[dependencies]
+chrono = "*"
+reqwest = "*"
+serde = "*"
+serde_derive = "*"
+serde_json = "*"
+url = "*"
